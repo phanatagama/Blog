@@ -100,8 +100,8 @@ img::-moz-selection {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
-  background-image: url('img/bgimage.png')
+  /*background: #F5F5F5;*/
+  background-image: url("img/bgimage.png")
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
