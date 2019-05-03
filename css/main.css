@@ -8,7 +8,7 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  background-image: url('img/bgimage.png');
+  background-image: url('/img/bgimage.png');
 }
 p {
   line-height: 1.5;
