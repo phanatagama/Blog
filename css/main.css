@@ -6,13 +6,10 @@ layout: null
 
 /* --- General --- */
 
-
-
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #FFF;
+  color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
   {% if site.page-img %}
@@ -111,6 +108,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
+  background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
@@ -605,7 +603,7 @@ footer .theme-by {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: #404040;
+  background-color: #FFF;
   border-radius: 0;
   color: #404040;
 }
