@@ -1,32 +1,55 @@
 ---
 layout: post
-title: First post!
+title: First Writeup!
 image: /img/hello_world.jpeg
 ---
 
-# GENETICS (300)
+## Literal [MISC 50]
 
+## DESCRIPTION:
+Something's going over my head,and it's too fast for me to catch!
 
-![gen](gen.png)
+## CHALLENGE:
+http://18.222.124.7
 
+![Literal](literal.png)
 
+## DIFFICULTY:
+EASY! 
 
-## Category: Crypto
+Well This Challenge was a cakewalk. The link was redirecting to another webpage on Wikipedia. To Solve this We just stopped the loading of webpage and viewed the source of page (CTRL+U) http://18.222.124.7/Literal.html. It gave something like this:
 
-## Difficulty: Easy(:P)
+```HTML
 
+<html>
+  <head>
+  <meta http-equiv="Refresh" content="1; url=https://en.wikipedia.org/wiki/Fork_bomb">
+  </head>
+  <body>
+  <!--
+        *   *                     f   f   f
+      *  ** *                   ff  ff  ff
+      * * ** ||                ff  ff  ff
+    **   ||||T||              fUffffffff
+      *   |C|||T| oooooooooooo fFff
+           |||||||{ooooooooooRfff3o
+          ooo4ooooooooooooooLff.ooooo0
+        oooNooooooooooooooo3ooooooo5ooo.
+        oooo4oooooRoooooooooo3oooooooooo.
+        oooDooooo4oooooNooooooooooooooooo
+        ooooooooooooooGoooooooooooooooooo
+        ooooooooooooooooooooo3oooooooooRo
+         oooooooo0oooooooooooooooooooooo
+          oooooooffUoooooooooooooooooo
+            ooofff5ooooooooooooooooo
+             fff }ooooooooooooooo
+            fff
+  -->
+  Redirecting to Wikipedia...!
+  </body>
+</html>
+```
 
-### Writeup :
-
-    This CTF was quite an interesting one. This was the first challenge that I solved(1st Blood :P). So to start with a Sequence of characters conataining A,C,G & T was given. So if u know Biology then u know it was a DNA Sequence. 
-> ACCAGTAAAACGTTGAGACAGTTGAATATCAAACTACACCGAATTCATATGTCACAGCGGCCGACACAGATGATAACA
-    
-    Thanks to John_Hammond for this Gr8 Katana (https://github.com/JohnHammond/ctf-katana).
-
-![dna](dna.png)
-
-Then Decoding it manually gave me the flag. 
- 
-
-
-> b00t2root{dnaCrypto1sAwesome}
+Looking closely to BOMB and extracting the TUCTF{} the capital Letters and digits....
+### FLAG:
+### TUCTF{R34L.0N35.4R3.D4NG3R0U5}
