@@ -24,11 +24,10 @@ description: First Jekyll Site
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,13 +42,13 @@ avatar: "/img/avatar-icon.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-text-col: "#FFF"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#FFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-text-col: "#FFF"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -64,7 +63,7 @@ page-img: "/img/bgimage.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Himanshu Gangwani
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -72,9 +71,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "himanshumike777@gmail.com"
   facebook: daattali
-  github: daattali
+  github: himanshukr000
   twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
