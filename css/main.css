@@ -334,7 +334,7 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #FFF;
+  color: #404040;
 }
 
 .post-preview a:focus,
@@ -605,9 +605,9 @@ footer .theme-by {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: #FFF;
+  background-color: #404040;
   border-radius: 0;
-  color: #FFF;
+  color: #404040;
 }
 @media only screen and (min-width: 768px) {
   .pager li a {
