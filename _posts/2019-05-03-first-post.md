@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Writeup!
-image: /img/hello_world.jpeg
 ---
 
 ## Literal [MISC 50]
