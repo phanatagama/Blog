@@ -1,6 +1,8 @@
 ---
 layout: post
-title: First Writeup!
+title: TUCTF_Literal
+subtitle: TUCTF{R34L.0N35.4R3.D4NG3R0U5}
+tags: misc easy 
 ---
 
 ## Literal [MISC 50]
