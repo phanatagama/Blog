@@ -5,6 +5,99 @@ subtitle: MY Blog My World
 use-site-title: true
 ---
 
+
+
+<h2>Wit for J</h2>
+<div class="small-box"> 
+  <div class="animated-worm"></div>
+  <div class="animated-worm"></div>
+  <div class="animated-worm"></div>
+  <div class="animated-worm"></div>J
+</div>
+$pri-color: #9c27b0
+$sec-color: darken($pri-color,10%)
+$ter-color: lighten($pri-color,40%)
+@keyframes enlarge-horizontal
+  0%
+    width: 0
+    left: -10%
+  20%
+    width: 50%
+    left: 0
+  80%
+    width: 50%
+    left: 110%
+  100%
+    width: 0
+    left: 110%
+ 
+@keyframes enlarge-vertical
+  0%
+    height: 0
+    top: -10%
+  20%
+    height: 50%
+    top: 0
+  80%
+    height: 50%
+    top: 100%
+  100%
+    height: 100%
+    top: 110%
+body 
+  background: $pri-color
+h2
+  font-weight: 100
+  font-family: monospace
+  color: $ter-color
+  text-align: center
+  margin: 10% auto 20px auto
+  
+.small-box
+  width: 100px
+  height: 100px
+  border: 1px solid $sec-color
+  color: $ter-color
+  margin: 0 auto
+  font-size: 20px
+  line-height: 98px 
+  font-family: monospace
+  text-align: center 
+  position: relative 
+  overflow: hidden
+  .animated-worm
+    position: absolute
+    bottom: 0 
+    right: 0
+    background: $ter-color
+    content: " "
+    dislay: block
+    width: 1px
+    height: 1px 
+    animation: enlarge-horizontal 1s infinite  ease-in-out
+  .animated-worm:nth-child(2)
+    right: 0 
+    top: 0    
+    animation: enlarge-vertical 1s infinite 0.3s reverse  ease-in-out
+    
+  .animated-worm:nth-child(3)
+    left: 0 
+    top: 0    
+    animation: enlarge-horizontal 1s infinite 0.8s  reverse  ease-in-out  
+
+  .animated-worm:nth-child(4)
+    left: 0 
+    top: 0  
+    animation: enlarge-vertical 1s infinite  1.5s  ease-in-out
+
+
+
+
+
+
+
+
+
 <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
 
 <div class="posts-list">
