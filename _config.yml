@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Writeup
+title: My Writeups
 
 # Short description of your site
-description: CTF-Writeup Blog
+description: CTF-Writeups Blog
 
 # --- Navigation bar options --- #
 
