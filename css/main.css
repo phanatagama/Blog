@@ -93,13 +93,12 @@ img::-moz-selection {
 }
 
 img {
-	padding: 10px;
+	/*--padding: 10px;
 	border: 3px solid #000;
 	background: #0a0a0a;
-	border-radius: 5px;
-  max-width: 100%;
-	margin: auto;
-	display: block;
+	border-radius: 5px;---*/
+  	max-width: 100%;
+	
 }
 
 img.avatar-img {
