@@ -11,15 +11,9 @@ subtitle: Why you'd want to go on a date with me
 - A tech Geek, Cyber_Sec Enthusiast and a __Handsome guy__ too :P
 
 
-- <p align="center">
-  <img src="https://www.hackthebox.eu/badge/image/92191" alt="Not CLICKABLE :P"/>
-</p>
+![HTB](https://www.hackthebox.eu/badge/image/92191 "Not Clickable :P")
 
-
-- <p align="center">
-  <img src="https://www.hackthebox.eu/badge/team/image/1262" alt="Not CLICKABLE :P"/>
-</p>
-
+![HTB](https://www.hackthebox.eu/badge/team/image/1262 "Not Clickable :P")
 
 
 
