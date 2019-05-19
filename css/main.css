@@ -296,6 +296,10 @@ footer .theme-by {
   footer .copyright {
     font-size: 16px;
   }
+  footer .HTB{
+	  align: left;
+	  padding: 0px;
+	}
 }
  
 /* --- Post preview --- */
