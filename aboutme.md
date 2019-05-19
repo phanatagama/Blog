@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-   My name is Himanshu Gangwani.
+  <p align="center"> My name is Himanshu Gangwani.</p>
 
 - I am pursuing my B.TECH in Computer Science from BIT Mesra. 
 - I love to play CTFs and PWN boxes on HTB as a member of @Dc1ph3R 
