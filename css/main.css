@@ -297,8 +297,9 @@ footer .theme-by {
     font-size: 16px;
   }
   footer .HTB{
-	  align: left;
-	  padding: 0px;
+	  position: relative;
+	  float: left;
+	  
 	}
 }
  
