@@ -296,12 +296,13 @@ footer .theme-by {
   footer .copyright {
     font-size: 16px;
   }
-  footer .HTB{
+  
+}
+footer .HTB{
 	  position: relative;
 	  float: left;
 	  
 	}
-}
  
 /* --- Post preview --- */
 
