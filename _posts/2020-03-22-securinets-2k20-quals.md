@@ -1,9 +1,11 @@
 ---
 layout: post
-published: false
-title: Securinets-2k20 Quals
+published: true
+title: Securinets-2K20 PreQuals
 date: '2020-03-22'
+image: /img/securi.png
 ---
-## A New Post
+Another long run of a 24hrs CTF.
+We ended 15th overall :). It was a gr8 CTF.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![]
