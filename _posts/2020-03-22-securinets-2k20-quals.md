@@ -92,7 +92,7 @@ So starting with `chromehistory`.
 This time there were references to Neymar. Looks like Admin was a serious Football fan :). Aside from Neymar and Corona this one caught our attention.
 
 ```
- 26 http://52.205.164.112/ 					2     1 2020-03-20 11:57:23.309102      N/A     
+ 26 http://52.205.164.112/ 	2     1 2020-03-20 11:57:23.309102      N/A     
 ```
 Going to the IP gave us ::
 
