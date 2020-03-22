@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Securinets-2K20 PreQuals
 date: '2020-03-22'
 image: /img/securi.png
@@ -18,4 +18,3 @@ Here are some of the challs:
 
 
 ## Time Matters
-
