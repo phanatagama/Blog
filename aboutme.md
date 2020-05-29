@@ -7,7 +7,7 @@ subtitle: Why you'd want to go on a date with me
   My name is Himanshu Gangwani.
 
 - I am pursuing my B.TECH in Computer Science from BIT Mesra. 
-- I love to play CTFs and PWN boxes on HTB as a member of [ByteForc3](https://ctftime.org/team/71631)
+- I love to play CTFs and PWN boxes on HTB .
 - A tech Geek, Cyber_Sec Enthusiast and a __Handsome guy__ too :P
 
 
