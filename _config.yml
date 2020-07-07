@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://himanshukr000.github.io"
+url: "https://phanatagama.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -62,7 +62,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Himanshu Gangwani
+  name: Cahyadi Setia Phanatagama
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -70,9 +70,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "himanshumike777@gmail.com"
+  email: "phanatagama@gmail.com"
   facebook: Himanshukr000
-  github: himanshukr000
+  github: phanatagama
   twitter: HimanshuKr000
 #  reddit: yourname
 #  google-plus: +DeanAttali
