@@ -15,7 +15,9 @@ Diberikan sebuah alamat web http://chall4.182410102083.repl.run/dengan tampilan 
 
 
 
-Web  tersebut  meminta  sebuah inputan nilai  antara  1~1500  dengan  kesempatan  10  kali kemudian   akan   dibandingkan   dengan   nilai   random untuk   mendapatkan   flag. Jika diperhatikan dengan baik, webitu menggunakan repl.it sehingga pada bagian url bisa kita tambahkan /__replmenjadi :http://chall4.182410102083.repl.run/__repl
+Web  tersebut  meminta  sebuah inputan nilai  antara  1~1500  dengan  kesempatan  10  kali kemudian   akan   dibandingkan   dengan   nilai   random untuk   mendapatkan   flag. 
+
+Jika diperhatikan dengan baik, webitu menggunakan repl.it sehingga pada bagian url bisa kita tambahkan /__repl menjadi :http://chall4.182410102083.repl.run/__repl
 
 selanjutnya kita akan diredirect ke halaman https://repl.it/@182410102083/chall4dan bisa melihat sourcode program
 
@@ -31,7 +33,8 @@ Diberikan  sebuah  alamat  web http://chall1.reach.my.id/jika  kita  buka  menam
 
 ![3](/img/umdctf-2020/3.png)
 
-Copy semua string yang ditampilkan kemudian reverse menggunakan text reverse onlineAgar bisa kita baca dengan mudah
+
+Copy semua string yang ditampilkan kemudian reverse menggunakan text reverse online Agar bisa kita baca dengan mudah
 ![3](/img/umdctf-2020/3.png)
 
 ```bash
@@ -41,11 +44,17 @@ referer: https://laos.ilkom.unej.ac.id
 Maka  tinggal  kita  buka  inspector kemudia  menuju  ke  bagian  network  untuk mengedit request.
 ```
 ![3](/img/umdctf-2020/3.png)
+
+
 Setelah kita ubah request kita kirimkan kembali dan kita bisa melihat response yang diberikan berupa base64 yang harus kita decode dulu untuk mendpat flag.
 ![3](/img/umdctf-2020/3.png)
 
+
+
 Pergi ke web base64decoderdan didapat hasil flagnya.
 ![3](/img/umdctf-2020/3.png)
+
+
 
 FLAG : LAOS_ARENA{pUy3ng_m4s?}
 ```
