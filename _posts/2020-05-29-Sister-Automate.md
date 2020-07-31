@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-title: Instagram Tools
+title: Sister Automate
 date: '2020-07-05'
-image: /img/LaosArenaPenyisihan/Friendship.jpg
+image: /img/Automate/sister-logo.png
 ---
 Implementasi python programming for automate @ **#4*.
 
@@ -12,7 +12,7 @@ Implementasi python programming for automate @ **#4*.
 Membuat script untuk automasi kehadiran di sister, hanya jalankan file python.
 Penggunaan automasi harus dipantau untuk memastikan tidak ada yang error.
 
-![1](/img/LaosArenaPenyisihan/uns0lveable.png)
+![1](/img/Automate/sister-login.png)
 
 
 
