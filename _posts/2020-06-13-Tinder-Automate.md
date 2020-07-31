@@ -1,11 +1,11 @@
 ---
 layout: post
 published: true
-title: Tinder Automate
-date: '2020-06-05'
+title: Tinder Auto Swipe
+date: '2020-06-02'
 image: /img/Automate/tinder-logo.png
 ---
-Implementasi javascript programming for automate @ **#4*.
+Implementasi javascript programming for automate @ **#3*.
 
 ## Automasi Swipe Tinder
 
