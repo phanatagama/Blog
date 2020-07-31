@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Writeups
+title: My Blog
 
 # Short description of your site
 description: CTF-Writeups Blog
@@ -23,9 +23,9 @@ description: CTF-Writeups Blog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://google.com"
+  Portofolio: "https://phanatagama.github.io/portofolio"
   Projects:
-    - pyAPI-bot: "https://github.com/Himanshukr000/pyAPI-bot"
+    - Youtube: "https://www.youtube.com/channel/UC3tF03J2dqJVmrKuYK2rNIA"
     
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -252,5 +252,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Beautiful Jekyll / phanatagama
 # 2fc73a3a967e97599c9763d05e564189
