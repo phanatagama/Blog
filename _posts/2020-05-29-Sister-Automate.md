@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Sister Automate
-date: '2020-07-05'
+date: '2020-05-29'
 image: /img/Automate/sister-logo.png
 ---
 Implementasi python programming for automate @ **#4*.
