@@ -23,7 +23,7 @@ description: CTF-Writeups Blog
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://google.com"
   Projects:
     - pyAPI-bot: "https://github.com/Himanshukr000/pyAPI-bot"
     
