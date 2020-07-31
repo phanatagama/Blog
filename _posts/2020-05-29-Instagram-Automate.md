@@ -2,17 +2,17 @@
 layout: post
 published: true
 title: Instagram Tools
-date: '2020-05-29'
-image: /img/LaosArenaPenyisihan/Friendship.jpg
+date: '2020-05-10'
+image: /img/Automate/logo-insta.png
 ---
-Implementasi python programming for automate @ **#6**.
+Implementasi python programming for automate @ **#5**.
 
 ## Automasi Instagram
 
 Membuat script untuk automasi instagram, dapat meningkatkan jumlah pengikut.
 Penggunaan automasi terbatas oleh sistem instagram, jika berlebihan dapat membuat akun terkena pelanggaran.
 
-![1](/img/LaosArenaPenyisihan/uns0lveable.png)
+![1](/img/Automate/Insta.png)
 
 
 
